@@ -1,72 +1,103 @@
  
-<!-- ✦ PEARL HOLOGRAPHIC GITHUB PROFILE ✦ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Dinkal%20Leuva&fontSize=48&fontColor=F8FAFC&animation=twinkling&fontAlignY=38&color=0:1E293B,35:64748B,70:C4B5D9,100:E2E8F0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=DINKAL%20LEUVA&fontSize=48&fontColor=F8FAFC&fontAlignY=40&animation=fadeIn&color=0:252A34,25:64748B,50:C5B8D5,75:E8DDEB,100:8496AB" />
 
 ### ✧ B.Tech Information Technology Student ✧
+*Learning • Building • Exploring*
 
-*Building, learning and exploring technology.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinkal%20Leuva-64748b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinkal-leuva-044640375/)
-[![Email](https://img.shields.io/badge/Email-Contact-8B7FA8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leuvadinkal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinkal%20Leuva-9C91AE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinkal-leuva-044640375/)
+[![Email](https://img.shields.io/badge/Email-Contact-B7A9C8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leuvadinkal@gmail.com)
 
 </div>
 
 ---
 
-## ✦ About Me
+## 💫 About Me
 
-- 🎓 B.Tech Information Technology student
-- 💻 Interested in software development and web technologies
-- 🌱 Continuously learning and exploring new technologies
-- 🚀 Enjoy building practical projects and solving problems
+Hi! I'm a B.Tech Information Technology student passionate about software development and problem-solving.
 
-## ✦ Tech Stack
+- 💻 Interested in Software Development and Web Technologies
+- 🌱 Currently exploring new technologies and improving my programming skills
+- 🛠️ Experienced with Python, Java, HTML, CSS and JavaScript
+- 🚀 Enjoy building practical projects and learning by doing
+- 🎯 Always curious to explore, experiment and create something useful
 
-<div align="center">
+## 🌐 Socials
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,git,github&theme=light)](https://skillicons.dev)
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9C91AE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinkal-leuva-044640375/)
+[![Email](https://img.shields.io/badge/Email-B7A9C8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leuvadinkal@gmail.com)
 
 </div>
 
-## ✦ Featured Projects
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-647F9B?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-647F9B?style=plastic&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-9C91AE?style=plastic&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-BB8E87?style=plastic&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-718CA8?style=plastic&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-789BB5?style=plastic&logo=flutter&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-8D91A8?style=plastic&logo=java&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-8B9B91?style=plastic&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-BB8E9B?style=plastic&logo=streamlit&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-B5A47D?style=plastic&logo=apachetomcat&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-718CA8?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-829B8B?style=plastic&logo=mongodb&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-789DA5?style=plastic&logo=canva&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-8C83A7?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-718CA8?style=plastic&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-8995A9?style=plastic&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-718CA8?style=plastic&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-BB987C?style=plastic&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-718CA8?style=plastic&logo=scipy&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-697586?style=plastic&logo=github&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-789DA5?style=plastic&logo=cisco&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-718CA8?style=plastic&logo=jira&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-B6A77C?style=plastic&logo=powerbi&logoColor=white)
+
+## ✨ Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/dinkal20/CollegeERP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dinkal20&repo=CollegeERP&theme=transparent&hide_border=true&title_color=B9A8D0&icon_color=9CB4D0&text_color=C9D1D9" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=dinkal20&repo=CollegeERP&bg_color=0D1117&title_color=E4D9EE&text_color=DCE4EC&icon_color=B7C5D9&border_color=9C91AE" width="48%" />
 </a>
 <a href="https://github.com/dinkal20/Health-Risk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dinkal20&repo=Health-Risk&theme=transparent&hide_border=true&title_color=B9A8D0&icon_color=9CB4D0&text_color=C9D1D9" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=dinkal20&repo=Health-Risk&bg_color=0D1117&title_color=E4D9EE&text_color=DCE4EC&icon_color=B7C5D9&border_color=9C91AE" width="48%" />
 </a>
 <a href="https://github.com/dinkal20/TrainReady">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dinkal20&repo=TrainReady&theme=transparent&hide_border=true&title_color=B9A8D0&icon_color=9CB4D0&text_color=C9D1D9" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=dinkal20&repo=TrainReady&bg_color=0D1117&title_color=E4D9EE&text_color=DCE4EC&icon_color=B7C5D9&border_color=9C91AE" width="48%" />
 </a>
 <a href="https://github.com/dinkal20/AVL-Tree-Visualizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dinkal20&repo=AVL-Tree-Visualizer&theme=transparent&hide_border=true&title_color=B9A8D0&icon_color=9CB4D0&text_color=C9D1D9" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=dinkal20&repo=AVL-Tree-Visualizer&bg_color=0D1117&title_color=E4D9EE&text_color=DCE4EC&icon_color=B7C5D9&border_color=9C91AE" width="48%" />
 </a>
 
 </div>
 
-## ✦ GitHub Statistics
+**Explore all my projects:** [github.com/dinkal20?tab=repositories](https://github.com/dinkal20?tab=repositories)
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dinkal20&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5D9&icon_color=9CB4D0&text_color=D9E0EA" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=dinkal20&show_icons=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=E4D9EE&text_color=DCE4EC&icon_color=B7C5D9&border_color=9C91AE" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinkal20&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5D9&text_color=D9E0EA" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dinkal20&layout=compact&bg_color=0D1117&title_color=E4D9EE&text_color=DCE4EC&border_color=9C91AE" />
 
-<img width="75%" src="https://streak-stats.demolab.com?user=dinkal20&theme=transparent&hide_border=true&ring=C4B5D9&fire=9CB4D0&currStreakLabel=C4B5D9&sideLabels=D9E0EA&dates=94A3B8" />
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com/?user=dinkal20&background=0D1117&ring=C5B8D5&fire=D8B9CB&currStreakLabel=E4D9EE&sideLabels=DCE4EC&currStreakNum=F8FAFC&sideNums=B7C5D9&dates=94A3B8&border=9C91AE" />
 
 </div>
 
-## ✦ Contribution Activity
+## 🌙 Contribution Activity
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinkal20&bg_color=0D1117&color=D9E0EA&line=B9A8D0&point=9CB4D0&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinkal20&bg_color=0D1117&color=DCE4EC&line=C5B8D5&point=E8DDEB&area_color=9C91AE&area=true&hide_border=false&custom_title=Contribution%20Activity" />
 
 </div>
 
@@ -76,8 +107,8 @@
 
 ### ✧ Thanks for visiting my profile! ✧
 
-*Keep learning. Keep building. Keep growing.*
+*Create • Learn • Grow*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E2E8F0,50:C4B5D9,100:1E293B&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8496AB,25:E8DDEB,50:C5B8D5,75:64748B,100:252A34&height=110&section=footer" />
 
 </div>
