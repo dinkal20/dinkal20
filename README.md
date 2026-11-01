@@ -94,7 +94,7 @@ Hi! I'm a B.Tech Information Technology student passionate about software develo
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinkal20&theme=github-compact&hide_border=false&area=true" />
+<img src="https://ghchart.rshah.org/B9A8D0/dinkal20" alt="Dinkal's GitHub Contribution Graph" width="100%" />
 
 </div>
 
