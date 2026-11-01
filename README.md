@@ -1,124 +1,15 @@
-<!-- studio:settings user=dinkal20 theme=tokyonight hl=2 border=hide follow=on light=solarized-light -->
+# 💫 About Me:
+Hi! I'm a B.Tech Information Technology student passionate about software development and problem-solving.<br><br>💻 Interested in Software Development and Web Technologies<br>🌱 Currently exploring new technologies and improving my programming skills<br>🛠️ Experienced with Python, Java, HTML, CSS and JavaScript<br>🚀 Enjoy building practical projects and learning by doing<br>🎯 Always curious to explore, experiment and create something useful.
 
-<!-- studio:banner -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/banner-dark.svg?text=Dinkal%20Leuva&shape=waving&paint=theme&animation=scaleIn&section=header&height=180&fontSize=52" />
-    <img src="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/banner-light.svg?text=Dinkal%20Leuva&shape=waving&paint=theme&animation=scaleIn&section=header&height=180&fontSize=52" alt="Dinkal Leuva" width="100%" />
-  </picture>
-</p>
 
-<!-- studio:header -->
-<h1 align="center">Hi, I'm Dinkal Leuva 👋</h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinkal-leuva-044640375) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leuvadinkal@gmail.com) 
 
-<p align="center">I'm a B.Tech Information Technology student with a passion for coding, problem-solving, and building things that make a difference.</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dinkal20&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=dinkal20&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dinkal20&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/typing-dark.svg?lines=%F0%9F%92%BB%20Exploring%20software%20development%20and%20web%20technologies;%F0%9F%8C%B1%20Always%20learning%20and%20experimenting%20with%20new%20ideas;%F0%9F%9B%A0%EF%B8%8F%20Turning%20concepts%20into%20practical%20projects;%F0%9F%9A%80%20Growing%20one%20line%20of%20code%20at%20a%20time!&font=Righteous&size=12&width=460&center=true" />
-    <img src="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/typing-light.svg?lines=%F0%9F%92%BB%20Exploring%20software%20development%20and%20web%20technologies;%F0%9F%8C%B1%20Always%20learning%20and%20experimenting%20with%20new%20ideas;%F0%9F%9B%A0%EF%B8%8F%20Turning%20concepts%20into%20practical%20projects;%F0%9F%9A%80%20Growing%20one%20line%20of%20code%20at%20a%20time!&font=Righteous&size=12&width=460&center=true" alt="💻 Exploring software development and web technologies. 🌱 Always learning and experimenting with new ideas. 🛠️ Turning concepts into practical projects. 🚀 Growing one line of code at a time!" />
-  </picture>
-</p>
-
-<!-- studio:stack after=1 -->
-<h2 align="center">Tech stack</h2>
-
-<p align="center">
-  <b>Languages</b><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/stack-languages-dark.svg?i=py%2Cjs%2Cjava%2Chtml%2Ccss%2Cc%2Ccpp&perline=10" />
-    <img src="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/stack-languages-light.svg?i=py,js,java,html,css,c,cpp&perline=10" alt="Languages: py, js, java, html, css, c, cpp" />
-  </picture>
-</p>
-
-<p align="center">
-  <b>Frameworks</b><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/stack-frameworks-dark.svg?i=flask%2Cflutter%2Csklearn%2Copencv&perline=10" />
-    <img src="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/stack-frameworks-light.svg?i=flask,flutter,sklearn,opencv&perline=10" alt="Frameworks: flask, flutter, sklearn, opencv" />
-  </picture>
-</p>
-
-<p align="center">
-  <b>Tools</b><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/stack-tools-dark.svg?i=git%2Cgcp%2Cvscode%2Cmongodb&perline=10" />
-    <img src="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/stack-tools-light.svg?i=git,gcp,vscode,mongodb&perline=10" alt="Tools: git, gcp, vscode, mongodb" />
-  </picture>
-</p>
-
-<br />
-
-<!-- studio:ownstats cards=stats.langs.streak n=6 after=1 -->
-<h2 align="center">📂 My Digital Footprint</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/card-own-stats-dark.svg" />
-    <img src="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/card-own-stats-light.svg" alt="GitHub stats" width="50%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/card-own-langs-dark.svg" />
-    <img src="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/card-own-langs-light.svg" alt="Top languages" width="50%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/card-own-streak-dark.svg" />
-    <img src="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/card-own-streak-light.svg" alt="Contribution streak" width="50%" />
-  </picture>
-</p>
-
-<br />
-
-<!-- studio:activity after=1 -->
-<h2 align="center">✨ My Journey in Code</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/card-activity-dark.svg?area=true" />
-    <img src="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/card-activity-light.svg?area=true" alt="Activity graph" width="100%" />
-  </picture>
-</p>
-
-<br />
-
-<!-- studio:snake snake=8250df dots=purple after=1 -->
-<h2 align="center">📊 Contribution Activity</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/card-snake-dark.svg?snake=8250df&dots=purple" />
-    <img src="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/card-snake-light.svg?snake=8250df&dots=purple" alt="Contribution snake" />
-  </picture>
-</p>
-
-<br />
-
-<!-- studio:repos after=1 -->
-<h2 align="center">🚀 Featured projects</h2>
-
-<p align="center">
-  <a href="https://github.com/dinkal20/my-best-project"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/card-repo-my-best-project-dark.svg?username=dinkal20&repo=my-best-project" />
-    <img src="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/card-repo-my-best-project-light.svg?username=dinkal20&repo=my-best-project" alt="my-best-project" width="50%" />
-  </picture></a>
-  <a href="https://github.com/dinkal20/another-one"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/card-repo-another-one-dark.svg?username=dinkal20&repo=another-one" />
-    <img src="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/card-repo-another-one-light.svg?username=dinkal20&repo=another-one" alt="another-one" width="50%" />
-  </picture></a>
-</p>
-
-<br />
-
-<!-- studio:socials -->
-<h2 align="center">🤝 Find me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dinkal-leuva-044640375"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/icon-linkedin-dark.svg?i=linkedin" />
-    <img src="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/icon-linkedin-light.svg?i=linkedin" alt="LinkedIn" width="40" />
-  </picture></a>
-  <a href="mailto:leuvadinkal@gmail.com"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/icon-email-dark.svg?i=gmail" />
-    <img src="https://raw.githubusercontent.com/dinkal20/dinkal20/main/profile-assets/icon-email-light.svg?i=gmail" alt="Email" width="40" />
-  </picture></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
