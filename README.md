@@ -103,6 +103,10 @@ Hi! I'm a B.Tech Information Technology student passionate about software develo
 
 <div align="center">
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dinkal20&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ### ✧ THANKS FOR VISITING MY PROFILE ✧
 
 *Create • Learn • Grow*
