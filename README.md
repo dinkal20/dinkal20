@@ -33,29 +33,9 @@ Hi! I'm a B.Tech Information Technology student passionate about software develo
 
 ## 💻 Tech Stack
 
-<img src="https://img.shields.io/badge/C-167BFF?style=plastic&logo=c&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/C++-123E8A?style=plastic&logo=cplusplus&logoColor=00E5FF" height="32" />
-<img src="https://img.shields.io/badge/Java-075985?style=plastic&logo=openjdk&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/HTML5-167BFF?style=plastic&logo=html5&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Python-123E8A?style=plastic&logo=python&logoColor=00E5FF" height="32" />
-<img src="https://img.shields.io/badge/Flutter-075985?style=plastic&logo=flutter&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/JavaFX-123E8A?style=plastic&logo=java&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/OpenCV-075985?style=plastic&logo=opencv&logoColor=00E5FF" height="32" />
-<img src="https://img.shields.io/badge/Streamlit-167BFF?style=plastic&logo=streamlit&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Apache_Tomcat-123E8A?style=plastic&logo=apachetomcat&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/MySQL-075985?style=plastic&logo=mysql&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/MongoDB-123E8A?style=plastic&logo=mongodb&logoColor=00E5FF" height="32" />
-<img src="https://img.shields.io/badge/Canva-167BFF?style=plastic&logo=canva&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Pandas-123E8A?style=plastic&logo=pandas&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/NumPy-075985?style=plastic&logo=numpy&logoColor=00E5FF" height="32" />
-<img src="https://img.shields.io/badge/Matplotlib-167BFF?style=plastic&logo=plotly&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Plotly-123E8A?style=plastic&logo=plotly&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Scikit--learn-075985?style=plastic&logo=scikitlearn&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/SciPy-167BFF?style=plastic&logo=scipy&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/GitHub-050D24?style=plastic&logo=github&logoColor=00E5FF" height="32" />
-<img src="https://img.shields.io/badge/Cisco-075985?style=plastic&logo=cisco&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Jira-123E8A?style=plastic&logo=jira&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Power_BI-167BFF?style=plastic&logo=powerbi&logoColor=white" height="32" />
+<div align="left">
+<img src="https://img.shields.io/badge/C-167BFF?style=plastic&logo=c&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/C++-123E8A?style=plastic&logo=cplusplus&logoColor=00E5FF" height="48" /> <img src="https://img.shields.io/badge/Java-075985?style=plastic&logo=openjdk&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/HTML5-167BFF?style=plastic&logo=html5&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/Python-123E8A?style=plastic&logo=python&logoColor=00E5FF" height="48" /> <img src="https://img.shields.io/badge/Flutter-075985?style=plastic&logo=flutter&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/JavaFX-123E8A?style=plastic&logo=java&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/OpenCV-075985?style=plastic&logo=opencv&logoColor=00E5FF" height="48" /> <img src="https://img.shields.io/badge/Streamlit-167BFF?style=plastic&logo=streamlit&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/Apache_Tomcat-123E8A?style=plastic&logo=apachetomcat&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/MySQL-075985?style=plastic&logo=mysql&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/MongoDB-123E8A?style=plastic&logo=mongodb&logoColor=00E5FF" height="48" /> <img src="https://img.shields.io/badge/Canva-167BFF?style=plastic&logo=canva&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/Pandas-123E8A?style=plastic&logo=pandas&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/NumPy-075985?style=plastic&logo=numpy&logoColor=00E5FF" height="48" /> <img src="https://img.shields.io/badge/Matplotlib-167BFF?style=plastic&logo=plotly&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/Plotly-123E8A?style=plastic&logo=plotly&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/Scikit--learn-075985?style=plastic&logo=scikitlearn&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/SciPy-167BFF?style=plastic&logo=scipy&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/GitHub-050D24?style=plastic&logo=github&logoColor=00E5FF" height="48" /> <img src="https://img.shields.io/badge/Cisco-075985?style=plastic&logo=cisco&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/Jira-123E8A?style=plastic&logo=jira&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/Power_BI-167BFF?style=plastic&logo=powerbi&logoColor=white" height="48" />
+</div>
 
 ## ✨ Featured Projects
 
