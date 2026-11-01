@@ -6,9 +6,6 @@
 ### ✧ B.Tech Information Technology Student ✧
 *Learning • Building • Exploring*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinkal%20Leuva-9C91AE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinkal-leuva-044640375/)
-[![Email](https://img.shields.io/badge/Email-Contact-B7A9C8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leuvadinkal@gmail.com)
-
 </div>
 
 ---
@@ -77,7 +74,7 @@ Hi! I'm a B.Tech Information Technology student passionate about software develo
 
 </div>
 
-**Explore all my projects:** [github.com/dinkal20?tab=repositories](https://github.com/dinkal20?tab=repositories)
+**Explore all my projects:** [GitHub Repositories](https://github.com/dinkal20?tab=repositories)
 
 ## 📊 GitHub Statistics
 
@@ -97,7 +94,7 @@ Hi! I'm a B.Tech Information Technology student passionate about software develo
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinkal20&bg_color=0D1117&color=DCE4EC&line=C5B8D5&point=E8DDEB&area_color=9C91AE&area=true&hide_border=false&custom_title=Contribution%20Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinkal20&theme=github-compact&hide_border=false&area=true" />
 
 </div>
 
