@@ -41,11 +41,8 @@ Hi! I'm a B.Tech Information Technology student passionate about software develo
 
 <div align="center">
 
-<a href="https://github.com/dinkal20/CollegeERP">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=dinkal20&repo=CollegeERP&bg_color=050D24&title_color=00E5FF&text_color=E0F7FF&icon_color=167BFF&border_color=167BFF" width="48%" />
-</a>
-<a href="https://github.com/dinkal20/Health-Risk">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=dinkal20&repo=Health-Risk&bg_color=050D24&title_color=00E5FF&text_color=E0F7FF&icon_color=167BFF&border_color=167BFF" width="48%" />
+<a href="https://github.com/dinkal20/CivicLens">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=dinkal20&repo=CivicLens&bg_color=050D24&title_color=00E5FF&text_color=E0F7FF&icon_color=167BFF&border_color=167BFF" width="48%" />
 </a>
 <a href="https://github.com/dinkal20/TrainReady">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=dinkal20&repo=TrainReady&bg_color=050D24&title_color=00E5FF&text_color=E0F7FF&icon_color=167BFF&border_color=167BFF" width="48%" />
