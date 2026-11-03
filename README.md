@@ -67,7 +67,11 @@ Hi! I'm a B.Tech Information Technology student passionate about software develo
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=dinkal20&background=050D24&ring=00E5FF&fire=167BFF&currStreakLabel=00E5FF&sideLabels=60A5FA&currStreakNum=FFFFFF&sideNums=E0F7FF&dates=93C5FD&border=167BFF" />
+<div align="center">
+
+<img width="65%" src="https://github-readme-streak-stats-eight.vercel.app/?user=dinkal20&background=050D24&ring=00E5FF&fire=167BFF&currStreakLabel=00E5FF&sideLabels=60A5FA&currStreakNum=FFFFFF&sideNums=E0F7FF&dates=93C5FD&stroke=123E8A&border=167BFF&hide_border=false" alt="GitHub Contribution Streak" />
+
+</div>
 
 </div>
 
