@@ -51,7 +51,7 @@ Hi! I'm a B.Tech Information Technology student passionate about software develo
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=dinkal20&repo=AVL-Tree-Visualizer&bg_color=050D24&title_color=00E5FF&text_color=E0F7FF&icon_color=167BFF&border_color=167BFF" width="48%" />
 </a>
 <a href="https://github.com/dinkal20/Smart-Parking-System">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=dinkal20&repo=AVL-Tree-Visualizer&bg_color=050D24&title_color=00E5FF&text_color=E0F7FF&icon_color=167BFF&border_color=167BFF" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=dinkal20&repo=Smart-Parking-System&bg_color=050D24&title_color=00E5FF&text_color=E0F7FF&icon_color=167BFF&border_color=167BFF" width="48%" />
 </a>
 
 **Explore all my projects:**
