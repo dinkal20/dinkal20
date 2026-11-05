@@ -52,7 +52,7 @@ Hi! I'm a B.Tech Information Technology student passionate about software develo
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=dinkal20&repo=Smart-Parking-System&bg_color=050D24&title_color=00E5FF&text_color=E0F7FF&icon_color=167BFF&border_color=167BFF" width="48%" />
 </a>
 
-<br>
+<br><br>
 **Explore all my projects:**
 
 [![GitHub Repositories](https://img.shields.io/badge/Explore%20My%20Repositories-123E8A?style=plastic&logo=github&logoColor=00E5FF)](https://github.com/dinkal20?tab=repositories)
