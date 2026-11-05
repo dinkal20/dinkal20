@@ -6,8 +6,6 @@
 
 *Learning • Building • Exploring*
 
-<img src="https://komarev.com/ghpvc/?username=dinkal20&label=PROFILE%20VIEWS&color=167BFF&style=plastic" alt="Profile Views" />
-
 </div>
 
 ---
